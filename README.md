@@ -1,6 +1,6 @@
 ### Hi, my name is Uy
 #### Competitive programmer - Developer
 
-Danang university of technology | Expert(1850+) on Codeforces | Winning a few programming contest.
+Danang university of technology | ICPC-Regionalist 2022 | Expert(1850+) on Codeforces.
 
-Skills: Java(Android, Spring Boot), Python(Flask), C++(CP, Arduino)...
+Skills: Java(Spring Boot, Android), Python(Django), C++(CP, Arduino)...
